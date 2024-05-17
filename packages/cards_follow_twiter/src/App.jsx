@@ -22,7 +22,8 @@ function App() {
   return (
     <section>
       {
-        varData.map(e=> <TwitterCard name={Object.keys(e)[0]}  isFollowing={Object.values(e)[0]} />)
+        //la key es una forma unica de identificar a un componente es una prop especial
+        varData.map(e=> <TwitterCard key={Object.keys(e)[0]} name={Object.keys(e)[0]}  isFollowing={Object.values(e)[0]} />)
       }     
     </section>
   )
