@@ -1,0 +1,23 @@
+.card{
+    width: 20vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.card--header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card--header-img{
+    height: 50px;
+    border-radius: 100%;
+}
+
+.card--header-article{
+    display: flex;
+    flex-direction: column;
+}
