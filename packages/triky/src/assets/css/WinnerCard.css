@@ -1,0 +1,41 @@
+/* Estilos para WinnerCard */
+.winner-card {
+    border-radius: 8px;
+    margin-bottom: 10px;
+    background-color: #fff;
+  }
+  
+  .card-header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 6px 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-header h3 {
+    margin: 0;
+    font-size: 14px;
+  }
+  
+  .card-body {
+    padding: 10px;
+  }
+  
+  .winner-info,
+  .lucer-info {
+    margin-bottom: 8px;
+  }
+  
+  .winner-info h4,
+  .lucer-info h4 {
+    margin: 0;
+    font-size: 12px;
+    color: #333;
+  }
+  
+  .winner-info p,
+  .lucer-info p {
+    margin: 0;
+    font-size: 11px;
+    color: #777;
+  }

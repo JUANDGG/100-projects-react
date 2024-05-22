@@ -1,0 +1,21 @@
+
+
+.board{
+  
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+    border-radius: 10px;
+}
+
+
+.board--item{
+  border: 3px solid #fff;
+  padding: 40px;
+  height: 20px;
+  width: 20px;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
