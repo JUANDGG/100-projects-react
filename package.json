@@ -2,10 +2,10 @@
   "dependencies": {
     "@s-ui/mono": "^2.45.0"
   },
-
-  "workspaces":[
+  "workspaces": [
     "packages/*"
-  ]
-
-
+  ],
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
 }
