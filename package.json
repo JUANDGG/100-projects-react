@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "@s-ui/mono": "^2.45.0"
+    "@s-ui/mono": "^2.45.0",
+    "@vitejs/plugin-react": "4.3.0"
   },
   "workspaces": [
     "packages/*"
   ],
   "devDependencies": {
+    "eslint": "^8.57.0",
     "standard": "^17.1.0"
   }
 }
