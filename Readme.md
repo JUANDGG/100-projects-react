@@ -9,3 +9,4 @@
 |----------------------|---------------------------------------------------------|
 | Cards Follow Twitter | [🔗](https://20-projects-react-cards-follow-twiter.vercel.app) |
 | Triky game           | [🔗](https://20-projects-react-triky.vercel.app)         |
+| mouse follow          | [🔗] (https://20-projects-react-mouse-follow.vercel.app)|
