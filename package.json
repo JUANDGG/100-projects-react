@@ -7,7 +7,10 @@
     "packages/*"
   ],
   "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.4",
     "eslint": "^8.57.0",
     "standard": "^17.1.0"
-  }
+  },
+  "scripts": {}
 }

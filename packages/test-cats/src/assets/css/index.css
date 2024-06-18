@@ -49,6 +49,17 @@
     border: var(--border-width) solid var(--white);
 }
 
+.btnRefresh{
+    padding: 10px;
+    border: none;
+    font-size: 20px;
+
+}
+
+.btnRefresh:hover{
+    background-color: #c4c4c4;
+    cursor: pointer;
+}
 
 @media (max-width: 768px) {
     .listImage {
