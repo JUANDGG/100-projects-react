@@ -6,7 +6,7 @@ function Header({titleHeader}){
     return (
         <header>
             <h1>{titleHeader}</h1>
-            <FormHeader placeHolderInpt='Avengers,Star Wars ,The Matrix...' textBtn='Search'/>
+            <FormHeader placeHolderInpt='Avengers,Star Wars ,The Matrix...' textBtn='Search' />
         </header>
     )
 }

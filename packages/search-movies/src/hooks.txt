@@ -1,0 +1,5 @@
+que es useReft ? :
+te permite crear una referencia a un elemento del doom o una especie de conexion con ese elemento mutable que persiste durante todo el ciclo de vida del componente  es muy util para guardar cualquier valor que se desee mutar como  un identificador como un elemento del doom como un contador etc etc .. y que cada vez que cambia no vuelve a renderizar el componente 
+
+- lo hace totalmente diferente al useState por que el use state cada vez que cambia se vuelve a renderizar el componente
+pero el useReft cada vez que cambia no vuelve a redenrizar nuestro componente
